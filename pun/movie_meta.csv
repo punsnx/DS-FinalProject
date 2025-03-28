@@ -3566,7 +3566,6 @@ id,original_title,genres,budget,revenue,vote_average,vote_count
 36419,afterlife,"['Drama', 'Horror', 'Mystery', 'Thriller']",4500000.0,3606395.0,5.4,253.0
 27586,the runaways,"['Drama', 'Music']",10000000.0,2995811.0,6.3,262.0
 26178,razorback,['Horror'],5500000.0,801000.0,5.6,33.0
-22649,a farewell to arms,"['Drama', 'Romance', 'War']",4.0,25.0,6.2,29.0
 34803,death at a funeral,['Comedy'],21000000.0,49050886.0,5.5,248.0
 37861,valhalla rising,"['Adventure', 'Drama', 'Action', 'Fantasy']",5641880.0,30638.0,5.9,323.0
 33217,diary of a wimpy kid,"['Comedy', 'Family']",15000000.0,75700498.0,5.9,369.0
@@ -4227,7 +4226,6 @@ id,original_title,genres,budget,revenue,vote_average,vote_count
 109414,this is the end,"['Action', 'Comedy']",32000000.0,126041322.0,6.2,2394.0
 68721,iron man 3,"['Action', 'Adventure', 'Science Fiction']",200000000.0,1215439994.0,6.8,8951.0
 91073,만추,['Drama'],6200000.0,4820000.0,6.9,22.0
-77221,black gold,"['Adventure', 'Drama']",40000000.0,5446000.0,5.9,77.0
 103731,mud,['Drama'],10000000.0,21587700.0,7.0,1080.0
 101501,the afflicted,"['Horror', 'Thriller']",180000.0,175742.0,4.0,12.0
 94901,about cherry,['Drama'],2500000.0,3003.0,4.4,91.0
@@ -4467,7 +4465,6 @@ id,original_title,genres,budget,revenue,vote_average,vote_count
 209185,the grand seduction,['Comedy'],12700000.0,3430018.0,6.7,109.0
 175541,black nativity,"['Drama', 'Music']",17500000.0,7018189.0,5.8,16.0
 140870,minuscule  la vallée des fourmis perdues,"['Animation', 'Adventure', 'Family']",19700000.0,30000000.0,6.6,128.0
-110428,camille claudel 1915,['Drama'],3512454.0,115860.0,7.0,20.0
 227700,mindscape,"['Thriller', 'Drama']",4357373.0,1200000.0,6.5,202.0
 114574,bikini spring break,['Comedy'],500000.0,500000.0,3.8,20.0
 187017,22 jump street,"['Crime', 'Comedy', 'Action']",50000000.0,188441614.0,7.0,3375.0
@@ -4901,9 +4898,7 @@ id,original_title,genres,budget,revenue,vote_average,vote_count
 270487,hail caesar,"['Comedy', 'Drama', 'Mystery']",22000000.0,63647656.0,5.7,1338.0
 318917,er ist wieder da,['Comedy'],3196621.0,25513752.0,6.8,462.0
 329819,la tête haute,['Drama'],5000000.0,26144.0,7.3,149.0
-15028,clockstoppers,"['Adventure', 'Family', 'Science Fiction', 'Thriller']",26000000.0,38793283.0,4.9,90.0
 129850,消失的子弹,"['Action', 'Mystery']",12000000.0,117629.0,6.0,21.0
-4912,confessions of a dangerous mind,"['Comedy', 'Crime', 'Drama', 'Romance', 'Thriller']",30000000.0,33013805.0,6.6,281.0
 257445,goosebumps,"['Adventure', 'Horror', 'Comedy']",58000000.0,158162788.0,6.2,1022.0
 304372,the perfect guy,"['Drama', 'Thriller']",12000000.0,60273173.0,5.6,162.0
 253414,rock the kasbah,"['Comedy', 'Music', 'War']",15000000.0,3020664.0,5.2,102.0
@@ -5349,7 +5344,6 @@ id,original_title,genres,budget,revenue,vote_average,vote_count
 374720,dunkirk,"['Action', 'Drama', 'History', 'Thriller', 'War']",100000000.0,519876949.0,7.5,2712.0
 14570,gymkata,"['Action', 'Drama']",8500000.0,5730596.0,4.7,14.0
 434119,공조,"['Action', 'Drama', 'Comedy']",8520000.0,56100000.0,6.2,5.0
-10991,pokémon 3 the movie,"['Adventure', 'Fantasy', 'Animation', 'Action', 'Family']",16000000.0,68411275.0,6.0,144.0
 335988,transformers the last knight,"['Action', 'Science Fiction', 'Thriller', 'Adventure']",260000000.0,604942143.0,6.2,1440.0
 159447,с новым годом мамы,"['Comedy', 'Drama']",2000000.0,11666088.0,5.3,9.0
 75438,beremennyy,['Comedy'],2000000.0,8000000.0,3.1,7.0
